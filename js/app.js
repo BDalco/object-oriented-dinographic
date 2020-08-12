@@ -5,7 +5,7 @@ const button = document.getElementById('btn');
 
 // Application, wait for DOM to be loaded if we're looking for specific elements
 document.addEventListener("DOMContentLoaded", function(event) {
-    console.log("DOM fully loaded and parsed");
+    // console.log("DOM fully loaded and parsed");
     init();
 });
 
